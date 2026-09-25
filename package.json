@@ -1,5 +1,5 @@
 {
-  "name": "@samuelaure/llm-client",
+  "name": "@samuelaure/nau-llm-client",
   "version": "0.1.0",
   "description": "LLM abstraction layer for the naŭ ecosystem — wraps OpenAI and Groq with unified usage tracking",
   "main": "./dist/index.js",
